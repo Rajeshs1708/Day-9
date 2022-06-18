@@ -1,0 +1,57 @@
+#form{
+    padding: 15px;
+    width: 350px;   
+    border: 1px solid black;
+   }
+   #form input,textarea{
+     width: 300px;
+     height: 29px;
+   }
+   #form div{
+     margin-bottom: 30px;
+   }
+   a:hover{
+      color: red;
+   }
+  #form{
+    display: flex;
+    flex-direction: column;
+  }
+  
+   #form1 label{
+        font-size: 14px;
+   }
+   #form1 input{
+        border: none;
+        outline: none;
+        border-bottom: 1px solid black;
+        width: 250px;
+   }
+   #form1 .divclass{
+     margin-bottom: 25px;
+     margin-top: 10px;
+     
+   }
+   #form1 h1{
+     text-align: center;
+   }
+   #part1{
+        display: flex;
+        justify-content: space-around;
+   }
+   #part2{
+     display: flex;
+     justify-content:center;
+   }
+   #part3{
+        display: flex;
+        justify-content: space-around;
+   }
+   table,tr,th,td{
+     border: 1px solid black;
+     border-collapse: collapse;
+     padding: 15px;
+   }
+   #table p{
+     text-indent: 200px;
+   }
